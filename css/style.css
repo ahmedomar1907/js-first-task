@@ -1,0 +1,48 @@
+body
+{
+    height: 1300px;
+}
+.btn
+{
+    display: none;
+}
+.item h3
+{
+    cursor: pointer;
+}
+.back
+{
+    width: 200px;
+    color: white;
+}
+.item
+{
+    transition: 2s;
+}
+.item:hover
+{
+    transform: scale(1.111,1.111);
+}
+span
+{
+    font-size: 13px;
+}
+.title h2
+{
+    font-size: 80px;
+    font-weight: 900;
+    color: #f1f1f1;
+}
+.title h3
+{
+    font-size: 40px;
+    font-weight: 900;
+    color: black;
+} 
+.item a
+{
+    text-decoration: none;
+    color: green;
+}
+
+
